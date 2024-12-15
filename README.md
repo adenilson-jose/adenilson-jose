@@ -1,6 +1,5 @@
 ### Olá eu sou o José Adenilson
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/josé-adenilson-b9a26b342)]
+https://www.linkedin.com/in/josé-adenilson-b9a26b342)
 ## Tecnologias do dia a dia
 
 <div style="display: inline_block"><br/>
